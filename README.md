@@ -207,9 +207,9 @@ Digging deeper, we delved into the workings of renowned rock bands. Ankor stood 
     <a href="https://projects.dharc.unibo.it/melody/1686331429.988095/exploring_rock_bands_in_spain">
        <img src="WhatsApp Image 2023-06-14 at 19.08.14.jpeg" alt="Image 1" width="400" height="240" />
   
-      <img src="melody.jpg" alt="Image 2" width="400" height="240" /> 
+      <img src="WhatsApp Image 2023-06-14 at 19.08.03.jpeg" alt="Image 2" width="400" height="240" /> 
       
-      <img src="melody.jpg" alt="Image 2" width="400" height="240" /></a>
+      <img src="" alt="Image 3" width="400" height="240" /></a>
     </div>
   </div>
 <br />
