@@ -190,7 +190,8 @@ footer {
 
   <div class="article">
     <div class="article-text">
-      <p>In the vibrant world of Spanish rock music, we set out on an adventure through data analysis. With SPARQL queries and our knowledge of Wikidata, we aimed to reveal the hidden stories that defined Spanish rock. Our journey began with an astonishing revelation: Spain had a remarkable 1,931 music bands, with 67 belonging to the rock genre. This showcased the strong presence of rock music in the country. We then explored the timeline of rock bands' origins. Through engaging line charts, we discovered that a remarkable 73 rock bands started their musical journeys in 1981, a transformative year for Spanish rock. It was a time of creativity and rebellion.
+      <p>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.
+In the vibrant world of Spanish rock music, we set out on an adventure through data analysis. With SPARQL queries and our knowledge of Wikidata, we aimed to reveal the hidden stories that defined Spanish rock. Our journey began with an astonishing revelation: Spain had a remarkable 1,931 music bands, with 67 belonging to the rock genre. This showcased the strong presence of rock music in the country. We then explored the timeline of rock bands' origins. Through engaging line charts, we discovered that a remarkable 73 rock bands started their musical journeys in 1981, a transformative year for Spanish rock. It was a time of creativity and rebellion.
 Digging deeper, we delved into the workings of renowned rock bands. Ankor stood out with an impressive lineup of 11 members, showcasing the power of collaboration and teamwork. Other notable bands like Los Berrones, Extremoduro, Los Brincos, Dover, Siniestro Total, and Leon Benavente had lineups of four to six members, highlighting the collective energy that drives their music. </p>
     </div>
     <div class="article-image">
