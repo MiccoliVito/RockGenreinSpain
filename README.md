@@ -209,7 +209,7 @@ Digging deeper, we delved into the workings of renowned rock bands. Ankor stood 
   
       <img src="WhatsApp Image 2023-06-14 at 19.08.03.jpeg" alt="Image 2" width="400" height="240" /> 
       
-      <img src="" alt="Image 3" width="400" height="240" /></a>
+      <img src="WhatsApp Image 2023-06-14 at 19.08.30.jpeg" alt="Image 3" width="400" height="240" /></a>
     </div>
   </div>
 <br />
