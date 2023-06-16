@@ -157,7 +157,7 @@ body {
 
     .Encode Sans Condensed Medium {
       font-style: Encode Sans Condensed Medium;
-      font-size: 13px;
+      font-size: 15px;
       font-family: 'Encode Sans Condensed Medium';
     }
 
