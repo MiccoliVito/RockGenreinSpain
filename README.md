@@ -155,7 +155,7 @@ body {
       margin-right: 10px;
     }
 
-    .italic {
+    .Encode Sans Condensed Medium {
       font-style: Encode Sans Condensed Medium;
       font-size: 14px;
       font-family: 'Encode Sans Condensed Medium';
