@@ -186,12 +186,10 @@ footer {
   </div>
 
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto.</em></h2>
-  
-    <h3>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.</h3>
-  
-    
+      
   <p class="small-italic">Explore Spain's vibrant rock music scene as we delve into the captivating stories of talented bands. From their humble beginnings to their awe-inspiring performances at renowned venues, these musicians embody the passion and energy of rock. Among the legends, La Oreja de Van Gogh stands out with their diverse genres. This is a testament to the cultural impact and electric vibes of Spanish rock. Get ready to rock!</p>
-
+  </br>
+  <h3>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.</h3>
 
   <div class="article">
     <div class="article-text">
