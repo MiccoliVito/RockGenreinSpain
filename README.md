@@ -107,7 +107,15 @@ body {
       font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
-      font-style: italic;
+      font-style: Encode Sans Condensed Medium;
+    }
+    
+     h3 {
+      color: #ff9900;
+      font-family: 'Encode Sans Condensed Medium';
+      font-size: 16px;
+      margin-top: 17px;
+      font-style: Encode Sans Condesed Medium;
     }
 
     .article {
@@ -147,8 +155,8 @@ body {
       margin-right: 10px;
     }
 
-    .small-italic {
-      font-style: italic;
+    .italic {
+      font-style: Encode Sans Condensed Medium;
       font-size: 14px;
       font-family: 'Encode Sans Condensed Medium';
     }
