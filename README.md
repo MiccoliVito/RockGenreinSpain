@@ -45,7 +45,7 @@
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Encode Sans Condensed Medium, Helvetica, sans-serif;
 }
 
  a {
@@ -81,7 +81,7 @@ body {
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
     body {
-      font-family: 'Encode Sans Condensed Medium', sans-serif;
+      font-family: 'Encode Sans Condensed Medium';
       background-color: white;
       color: #333;
       margin: 0;
@@ -97,14 +97,14 @@ body {
 
     h1 {
       color: #FFF;
-      font-family: 'Encode Sans Condensed Medium', serif;
+      font-family: 'Encode Sans Condensed Medium';
       font-size: 36px;
       margin: 0;
     }
 
     h2 {
       color: #ff9900;
-      font-family: 'Encode Sans Condensed Medium', serif;
+      font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
       font-style: italic;
@@ -121,7 +121,7 @@ body {
 
     .article-text {
       flex: 1;
-      font-family: ' Encode Sans Condensed Medium', serif;
+      font-family: ' Encode Sans Condensed Medium';
     }
 
     .article-image {
@@ -150,7 +150,7 @@ body {
     .small-italic {
       font-style: italic;
       font-size: 14px;
-      font-family: 'Encode Sans Condensed Medium', serif;
+      font-family: 'Encode Sans Condensed Medium';
     }
 
     .white-box {
