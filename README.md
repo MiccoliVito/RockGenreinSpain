@@ -160,13 +160,6 @@ body {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-/* Style the footer */
-footer {
-  background-color: #990a00;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
 
   </style>
 </head>
@@ -188,7 +181,7 @@ footer {
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto.</em></h2>
       
   <p class="italic">Explore Spain's vibrant rock music scene as we delve into the captivating stories of talented bands. From their humble beginnings to their awe-inspiring performances at renowned venues, these musicians embody the passion and energy of rock. Among the legends, La Oreja de Van Gogh stands out with their diverse genres. This is a testament to the cultural impact and electric vibes of Spanish rock. Get ready to rock!</p>
-  </br>
+ 
   <h3>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.</h3>
 
   <div class="article">
