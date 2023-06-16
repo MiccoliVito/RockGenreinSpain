@@ -186,12 +186,16 @@ footer {
   </div>
 
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto.</em></h2>
+  <div class:"title-box">
+    <h3>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.</h3>
+  </div>
+    
   <p class="small-italic">Explore Spain's vibrant rock music scene as we delve into the captivating stories of talented bands. From their humble beginnings to their awe-inspiring performances at renowned venues, these musicians embody the passion and energy of rock. Among the legends, La Oreja de Van Gogh stands out with their diverse genres. This is a testament to the cultural impact and electric vibes of Spanish rock. Get ready to rock!</p>
 
 
   <div class="article">
     <div class="article-text">
-      <p>Keywords: data journalism, music analysis, rock genre, Spanish rock music, insights, Wikidata.
+      <p>
 In the vibrant world of Spanish rock music, we set out on an adventure through data analysis. With SPARQL queries and our knowledge of Wikidata, we aimed to reveal the hidden stories that defined Spanish rock. Our journey began with an astonishing revelation: Spain had a remarkable 1,931 music bands, with 67 belonging to the rock genre. This showcased the strong presence of rock music in the country. We then explored the timeline of rock bands' origins. Through engaging line charts, we discovered that a remarkable 73 rock bands started their musical journeys in 1981, a transformative year for Spanish rock. It was a time of creativity and rebellion.
 Digging deeper, we delved into the workings of renowned rock bands. Ankor stood out with an impressive lineup of 11 members, showcasing the power of collaboration and teamwork. Other notable bands like Los Berrones, Extremoduro, Los Brincos, Dover, Siniestro Total, and Leon Benavente had lineups of four to six members, highlighting the collective energy that drives their music. </p>
     </div>
