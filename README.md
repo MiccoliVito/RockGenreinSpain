@@ -157,7 +157,7 @@ body {
 
     .Encode Sans Condensed Medium {
       font-style: Encode Sans Condensed Medium;
-      font-size: 14px;
+      font-size: 13px;
       font-family: 'Encode Sans Condensed Medium';
     }
 
@@ -203,7 +203,7 @@ Digging deeper, we delved into the workings of renowned rock bands. Ankor stood 
     </div>
   </div>
 
-  <div class="orange-box">
+  <div class="white-box">
     <p style="font-family: 'Encode Sans Condensed Medium';">Continuing our exploration, we took a virtual tour of Spanish stadiums through captivating map queries. Madrid emerged as the music capital, boasting 13 stadiums pulsating with the energy of unforgettable rock performances. Barcelona followed closely behind with nine stadiums, witnessing the power and passion of rock music. We also discovered the principal rock bands in Spain, each with its own charm and history. Through captivating photos, we glimpsed the two most famous rock bands. Lastly, we entered the enchanting world of La Oreja de Van Gogh, a beloved band that transcends genres. A delightful doughnut chart revealed their diverse musical styles, spanning pop, folk rock, pop rock, power pop, EM, and electropop. Their ability to cross musical boundaries and deeply resonate with listeners left us in awe. Throughout our journey, the Melody platform guided us, weaving together data and storytelling to unveil the hidden narratives of Spanish rock music. In conclusion, our exploration of the rock genre in Spain has been an exciting adventure. Through data analysis, we uncovered a vibrant Spanish rock scene, from the multitude of bands to the electrifying cities that serve as their stages. Each discovery added a new layer to the evolving masterpiece of Spanish rock music, leaving us captivated by the boundless creativity, unwavering passion, and indomitable spirit that define this extraordinary genre. Check on our Melody story by clicking<a href="https://projects.dharc.unibo.it/melody/1686331429.988095/exploring_rock_bands_in_spain"> <span style="color:grey"><b>here</b></span></a></p>
   </div>
 
